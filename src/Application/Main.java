@@ -1,3 +1,5 @@
+import BoardGame.Board;
+
 void main() {
-    System.out.println("Hello world");
+    Board board = new Board(8, 8);
 }
